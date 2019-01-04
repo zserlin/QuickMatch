@@ -1,0 +1,10 @@
+QuickMatch is released under a GPLv3 license (see License-gpl.txt).
+Please see README.md for a list of all included code and dependencies which are not property of the authors of QuickMatch.
+
+For a closed-source version of QuickMatch for commercial purposes, please contact the authors.
+
+If you use QuickMatch in an academic work, please cite the most relevant publication associated by visiting:
+http://sites.bu.edu/tron/publications/
+
+
+
